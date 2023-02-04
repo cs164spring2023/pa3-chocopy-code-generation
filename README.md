@@ -1,8 +1,8 @@
 # CS 164: Programming Assignment 3
 
-[PA3 Specification]: https://drive.google.com/open?id=1TrMUZK9A83W_WgOLzOCviZSd7HdvuU4W
-[ChocoPy Specification]: https://drive.google.com/file/d/1mrgrUFHMdcqhBYzXHG24VcIiSrymR6wt
-[ChocoPy Implementation Guide]: https://drive.google.com/open?id=177fFobSh6yYTV6pD-n9jcPgcJtqaoeAC
+[PA3 Specification]: https://drive.google.com/file/d/1BNTp3I3jYEK78zK4NSdpFuXrlB6rbcGt/view?usp=share_link
+[ChocoPy Specification]: https://drive.google.com/file/d/1AUtxf_x9NF_iVpFoyidHa2oCvJkVLvqR/view?usp=share_link
+[ChocoPy Implementation Guide]: https://drive.google.com/file/d/10KYfzIT5pEDLaIdAAj5PxLVK6E26d6lC/view?usp=share_link
 
 Note: Users running Windows should replace the colon (`:`) with a semicolon (`;`) in the classpath argument for all command listed below.
 
@@ -78,7 +78,7 @@ starter code.
 Add the `upstream` repository remotes (you only need to do this once in your local clone):
 
 ```
-git remote add upstream https://github.com/cs164berkeley/pa3-chocopy-code-generation.git
+git remote add upstream https://github.com/cs164spring2023/pa3-chocopy-code-generation.git
 ```
 
 To sync with updates upstream:
